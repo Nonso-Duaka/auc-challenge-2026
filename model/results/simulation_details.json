@@ -1,0 +1,271 @@
+{
+  "baseline": {
+    "scenario": "Current (2025)",
+    "igs": 36.2,
+    "place": 45.1,
+    "economy": 29.5,
+    "community": 32.6,
+    "igs_change": 0
+  },
+  "scenarios": [
+    {
+      "scenario": "Conservative (Year 1)",
+      "igs": 38.2,
+      "place": 45.8,
+      "economy": 32.9,
+      "community": 35.5,
+      "igs_change": 2.0,
+      "changes": {
+        "Internet Access Score": {
+          "from": 3.0,
+          "to": 8.0,
+          "delta": 5
+        },
+        "New Businesses Score": {
+          "from": 43.0,
+          "to": 47.0,
+          "delta": 4
+        },
+        "Labor Market Engagement Index Score": {
+          "from": 1.0,
+          "to": 4.0,
+          "delta": 3
+        },
+        "Commercial Diversity Score": {
+          "from": 34.0,
+          "to": 39.0,
+          "delta": 5
+        },
+        "Travel Time to Work Score": {
+          "from": 1.0,
+          "to": 3.0,
+          "delta": 2
+        },
+        "Spending per Capita Score": {
+          "from": 34.0,
+          "to": 37.0,
+          "delta": 3
+        },
+        "Small Business Loans Score": {
+          "from": 45.0,
+          "to": 48.0,
+          "delta": 3
+        },
+        "Minority/Women Owned Businesses Score": {
+          "from": 22.0,
+          "to": 25.0,
+          "delta": 3
+        },
+        "Health Insurance Coverage Score": {
+          "from": 39.0,
+          "to": 44.0,
+          "delta": 5
+        },
+        "Personal Income Score": {
+          "from": 15.0,
+          "to": 18.0,
+          "delta": 3
+        },
+        "Early Education Enrollment Score": {
+          "from": 97.0,
+          "to": 99.0,
+          "delta": 2
+        },
+        "Female Above Poverty Score": {
+          "from": 12.0,
+          "to": 14.0,
+          "delta": 2
+        }
+      }
+    },
+    {
+      "scenario": "Moderate (Year 3)",
+      "igs": 41.9,
+      "place": 47.3,
+      "economy": 38.2,
+      "community": 38.8,
+      "igs_change": 5.7,
+      "changes": {
+        "Internet Access Score": {
+          "from": 3.0,
+          "to": 15.0,
+          "delta": 12
+        },
+        "New Businesses Score": {
+          "from": 43.0,
+          "to": 53.0,
+          "delta": 10
+        },
+        "Labor Market Engagement Index Score": {
+          "from": 1.0,
+          "to": 9.0,
+          "delta": 8
+        },
+        "Commercial Diversity Score": {
+          "from": 34.0,
+          "to": 46.0,
+          "delta": 12
+        },
+        "Travel Time to Work Score": {
+          "from": 1.0,
+          "to": 6.0,
+          "delta": 5
+        },
+        "Spending per Capita Score": {
+          "from": 34.0,
+          "to": 42.0,
+          "delta": 8
+        },
+        "Small Business Loans Score": {
+          "from": 45.0,
+          "to": 52.0,
+          "delta": 7
+        },
+        "Minority/Women Owned Businesses Score": {
+          "from": 22.0,
+          "to": 30.0,
+          "delta": 8
+        },
+        "Health Insurance Coverage Score": {
+          "from": 39.0,
+          "to": 51.0,
+          "delta": 12
+        },
+        "Personal Income Score": {
+          "from": 15.0,
+          "to": 23.0,
+          "delta": 8
+        },
+        "Early Education Enrollment Score": {
+          "from": 97.0,
+          "to": 99,
+          "delta": 5
+        },
+        "Female Above Poverty Score": {
+          "from": 12.0,
+          "to": 17.0,
+          "delta": 5
+        }
+      }
+    },
+    {
+      "scenario": "Optimistic (Year 5)",
+      "igs": 46.5,
+      "place": 49.1,
+      "economy": 43.6,
+      "community": 43.2,
+      "igs_change": 10.3,
+      "changes": {
+        "Internet Access Score": {
+          "from": 3.0,
+          "to": 23.0,
+          "delta": 20
+        },
+        "New Businesses Score": {
+          "from": 43.0,
+          "to": 61.0,
+          "delta": 18
+        },
+        "Labor Market Engagement Index Score": {
+          "from": 1.0,
+          "to": 16.0,
+          "delta": 15
+        },
+        "Commercial Diversity Score": {
+          "from": 34.0,
+          "to": 54.0,
+          "delta": 20
+        },
+        "Travel Time to Work Score": {
+          "from": 1.0,
+          "to": 11.0,
+          "delta": 10
+        },
+        "Spending per Capita Score": {
+          "from": 34.0,
+          "to": 49.0,
+          "delta": 15
+        },
+        "Small Business Loans Score": {
+          "from": 45.0,
+          "to": 59.0,
+          "delta": 14
+        },
+        "Minority/Women Owned Businesses Score": {
+          "from": 22.0,
+          "to": 37.0,
+          "delta": 15
+        },
+        "Health Insurance Coverage Score": {
+          "from": 39.0,
+          "to": 59.0,
+          "delta": 20
+        },
+        "Personal Income Score": {
+          "from": 15.0,
+          "to": 30.0,
+          "delta": 15
+        },
+        "Early Education Enrollment Score": {
+          "from": 97.0,
+          "to": 99,
+          "delta": 8
+        },
+        "Female Above Poverty Score": {
+          "from": 12.0,
+          "to": 22.0,
+          "delta": 10
+        }
+      }
+    }
+  ],
+  "current_scores": {
+    "Net Occupancy Score": 81.0,
+    "Residential Real Estate Value Score": 40.0,
+    "Acres of Park Land Score": 14.0,
+    "Affordable Housing Score": 99.0,
+    "Internet Access Score": 3.0,
+    "Travel Time to Work Score": 1.0,
+    "New Businesses Score": 43.0,
+    "Spend Growth Score": 34.0,
+    "Small Business Loans Score": 45.0,
+    "Minority/Women Owned Businesses Score": 22.0,
+    "Labor Market Engagement Index Score": 1.0,
+    "Commercial Diversity Score": 34.0,
+    "Personal Income Score": 15.0,
+    "Spending per Capita Score": 34.0,
+    "Female Above Poverty Score": 12.0,
+    "Gini Coefficient Score": 18.0,
+    "Early Education Enrollment Score": 97.0,
+    "Health Insurance Coverage Score": 39.0,
+    "bench_usa": 1.0,
+    "bench_state": 0.0,
+    "bench_urban_rural": 0.0
+  },
+  "feature_importance": [
+    "Net Occupancy Score",
+    "Residential Real Estate Value Score",
+    "Acres of Park Land Score",
+    "Affordable Housing Score",
+    "Internet Access Score",
+    "Travel Time to Work Score",
+    "New Businesses Score",
+    "Spend Growth Score",
+    "Small Business Loans Score",
+    "Minority/Women Owned Businesses Score",
+    "Labor Market Engagement Index Score",
+    "Commercial Diversity Score",
+    "Personal Income Score",
+    "Spending per Capita Score",
+    "Female Above Poverty Score",
+    "Gini Coefficient Score",
+    "Early Education Enrollment Score",
+    "Health Insurance Coverage Score",
+    "bench_usa",
+    "bench_state",
+    "bench_urban_rural"
+  ],
+  "model_type": "XGBoost",
+  "training_r2": 0.9883,
+  "training_mae": 0.75
+}

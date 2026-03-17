@@ -1,0 +1,117 @@
+Category,Measure,Value,Margin_of_Error,Notes
+Poverty,Total population (poverty universe),3820,570.0,
+Poverty,Population below poverty level,1288,518.0,
+Poverty,Poverty rate (%),33.7%,,Calculated
+Poverty by Age,Male below poverty: Under 5,56,,B17001
+Poverty by Age,Male below poverty: 5,0,,B17001
+Poverty by Age,Male below poverty: 6-11,58,,B17001
+Poverty by Age,Male below poverty: 12-14,47,,B17001
+Poverty by Age,Male below poverty: 15,17,,B17001
+Poverty by Age,Male below poverty: 16-17,0,,B17001
+Poverty by Age,Male below poverty: 18-24,247,,B17001
+Poverty by Age,Male below poverty: 25-34,33,,B17001
+Poverty by Age,Male below poverty: 35-44,78,,B17001
+Poverty by Age,Male below poverty: 45-54,60,,B17001
+Poverty by Age,Male below poverty: 55-64,18,,B17001
+Poverty by Age,Male below poverty: 65-74,10,,B17001
+Poverty by Age,Male below poverty: 75+,28,,B17001
+Poverty by Age,Female below poverty: Under 5,0,,B17001
+Poverty by Age,Female below poverty: 5,0,,B17001
+Poverty by Age,Female below poverty: 6-11,69,,B17001
+Poverty by Age,Female below poverty: 12-14,0,,B17001
+Poverty by Age,Female below poverty: 15,0,,B17001
+Poverty by Age,Female below poverty: 16-17,0,,B17001
+Poverty by Age,Female below poverty: 18-24,63,,B17001
+Poverty by Age,Female below poverty: 25-34,84,,B17001
+Poverty by Age,Female below poverty: 35-44,61,,B17001
+Poverty by Age,Female below poverty: 45-54,113,,B17001
+Poverty by Age,Female below poverty: 55-64,60,,B17001
+Poverty by Age,Female below poverty: 65-74,12,,B17001
+Poverty by Age,Female below poverty: 75+,174,,B17001
+Employment,Population 16 years and over,3295,488.0,
+Employment,In labor force,1676,403.0,
+Employment,Employed,1238,356.0,
+Employment,Unemployed,438,247.0,
+Employment,Not in labor force,1619,359.0,
+Employment,Labor force participation rate (%),50.9%,,Calculated
+Employment,Unemployment rate (%),26.1%,,Calculated
+Employment,Employment-population ratio (%),37.6%,,Calculated
+Income,Per capita income ($),22536,4220.0,
+Income,Median household income ($),45618,7429.0,
+Health Insurance,Total population,3820,,
+Health Insurance,Uninsured: Under 19,0,,
+Health Insurance,Uninsured: 19-34,40,,
+Health Insurance,Uninsured: 35-64,247,,
+Health Insurance,Uninsured: 65+,0,,
+Health Insurance,Total uninsured,287,,Calculated sum
+Health Insurance,Uninsured rate (%),7.5%,,Calculated
+Insurance by Employment,Total 19-64,2401,,C27012
+Insurance by Employment,In labor force,574,,C27012
+Insurance by Employment,Employed,483,,C27012
+Insurance by Employment,Employed: Insured,418,,C27012
+Insurance by Employment,Employed: Employer-based,38,,C27012
+Insurance by Employment,Employed: Direct purchase,0,,C27012
+Insurance by Employment,Employed: Medicaid,37,,C27012
+Insurance by Employment,Employed: No insurance,91,,C27012
+Insurance by Employment,Unemployed,1093,,C27012
+Insurance by Employment,Unemployed: Insured,897,,C27012
+Insurance by Employment,Unemployed: No insurance,6,,C27012
+Insurance by Employment,Not in labor force,453,,C27012
+Insurance by Employment,Not in LF: Insured,196,,C27012
+Insurance by Employment,Not in LF: No insurance,27,,C27012
+Insurance by Employment,Employer-based rate among employed (%),7.9%,,Calculated
+Insurance by Employment,Medicaid rate among employed (%),7.7%,,Calculated
+Industry,Total employed,1238,,C24030
+Industry,Male employed,515,,C24030
+Industry,Male: Ag/Mining,43,,C24030
+Industry,Male: Construction,120,,C24030
+Industry,Male: Manufacturing,70,,C24030
+Industry,Male: Wholesale,0,,C24030
+Industry,Male: Retail,18,,C24030
+Industry,Male: Transport/Utilities,68,,C24030
+Industry,Male: Information,0,,C24030
+Industry,Male: Finance/Insurance/RE,12,,C24030
+Industry,Male: Professional/Mgmt,19,,C24030
+Industry,Male: Education/Health,19,,C24030
+Industry,Male: Arts/Food,21,,C24030
+Industry,Male: Other services,87,,C24030
+Industry,Male: Public admin,6,,C24030
+Industry,Female employed,723,,C24030
+Industry,Female: Ag/Mining,0,,C24030
+Industry,Female: Construction,0,,C24030
+Industry,Female: Manufacturing,13,,C24030
+Industry,Female: Wholesale,21,,C24030
+Industry,Female: Retail,187,,C24030
+Industry,Female: Transport/Utilities,42,,C24030
+Industry,Female: Information,0,,C24030
+Industry,Female: Finance/Insurance/RE,21,,C24030
+Industry,Female: Professional/Mgmt,0,,C24030
+Industry,Female: Education/Health,0,,C24030
+Industry,Female: Arts/Food,214,,C24030
+Industry,Female: Other services,39,,C24030
+Industry,Female: Public admin,65,,C24030
+Transportation,Total workers 16+,1173,,100.0% of workers
+Transportation,Car/truck/van,1081,,92.2% of workers
+Transportation,Drove alone,1016,,86.6% of workers
+Transportation,Carpooled,65,,5.5% of workers
+Transportation,Public transportation,0,,B08301
+Transportation,Taxicab,0,,B08301
+Transportation,Motorcycle,0,,B08301
+Transportation,Bicycle,0,,B08301
+Transportation,Walked,0,,B08301
+Transportation,Other means,63,,5.4% of workers
+Transportation,Worked from home,29,,2.5% of workers
+Travel Time,Total,1144,,B08303
+Travel Time,<5 min,0,,B08303
+Travel Time,5-9 min,14,,B08303
+Travel Time,10-14 min,85,,B08303
+Travel Time,15-19 min,67,,B08303
+Travel Time,20-24 min,116,,B08303
+Travel Time,25-29 min,17,,B08303
+Travel Time,30-34 min,112,,B08303
+Travel Time,35-39 min,62,,B08303
+Travel Time,40-44 min,96,,B08303
+Travel Time,45-59 min,138,,B08303
+Travel Time,60-89 min,339,,B08303
+Travel Time,90+ min,98,,B08303
+Travel Time,% commuting under 35 min,35.9%,,Calculated — matches IGS metric

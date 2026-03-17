@@ -1,0 +1,107 @@
+NAICS,Industry,Establishments,Employment,Annual_Payroll_1000s,Level,Healthcare_Related
+00,Total for all sectors,121,1395,60199,2-digit sector,
+21,"Mining, quarrying, and oil and gas extraction",3,47,2929,2-digit sector,
+212,Mining (except oil and gas),3,47,2929,2-digit sector,
+2123,Nonmetallic mineral mining and quarrying,3,47,2929,2-digit sector,
+21232,"Sand, gravel, clay, and ceramic and refractory minerals mining and quarrying",3,47,2929,2-digit sector,
+212321,Construction sand and gravel mining,3,47,2929,2-digit sector,
+23,Construction,12,93,4497,2-digit sector,
+236,Construction of buildings,5,4,213,2-digit sector,
+2361,Residential building construction,3,1,52,2-digit sector,
+23611,Residential building construction,3,1,52,2-digit sector,
+238,Specialty trade contractors,5,58,2574,2-digit sector,
+2382,Building equipment contractors,4,57,2541,2-digit sector,
+23822,"Plumbing, heating, and air-conditioning contractors",4,57,2541,2-digit sector,
+238220,"Plumbing, heating, and air-conditioning contractors",4,57,2541,2-digit sector,
+44-45,Retail trade,21,213,4843,2-digit sector,Yes
+445,Food and beverage stores,5,61,901,2-digit sector,
+4451,Grocery stores,5,61,901,2-digit sector,
+44511,Supermarkets and other grocery (except convenience) stores,3,49,789,2-digit sector,
+445110,Supermarkets and other grocery (except convenience) stores,3,49,789,2-digit sector,
+447,Gasoline stations,8,89,2434,2-digit sector,
+4471,Gasoline stations,8,89,2434,2-digit sector,
+44711,Gasoline stations with convenience stores,5,33,1516,2-digit sector,
+447110,Gasoline stations with convenience stores,5,33,1516,2-digit sector,
+44719,Other gasoline stations,3,56,918,2-digit sector,
+447190,Other gasoline stations,3,56,918,2-digit sector,
+452,General merchandise stores,5,30,701,2-digit sector,
+4523,"General merchandise stores, including warehouse clubs and supercenters",5,30,701,2-digit sector,
+45231,"General merchandise stores, including warehouse clubs and supercenters",5,30,701,2-digit sector,
+452319,All other general merchandise stores,5,30,701,2-digit sector,
+48-49,Transportation and warehousing,10,33,1858,2-digit sector,Yes
+484,Truck transportation,7,16,608,2-digit sector,
+4842,Specialized freight trucking,5,8,258,2-digit sector,
+48422,"Specialized freight (except used goods) trucking, local",4,8,221,2-digit sector,
+484220,"Specialized freight (except used goods) trucking, local",4,8,221,2-digit sector,
+486,Pipeline transportation,3,17,1250,2-digit sector,
+4862,Pipeline transportation of natural gas,3,17,1250,2-digit sector,
+48621,Pipeline transportation of natural gas,3,17,1250,2-digit sector,
+486210,Pipeline transportation of natural gas,3,17,1250,2-digit sector,
+52,Finance and insurance,7,22,857,2-digit sector,
+522,Credit intermediation and related activities,5,21,804,2-digit sector,
+5221,Depository credit intermediation,4,20,738,2-digit sector,
+52211,Commercial banking,3,18,675,2-digit sector,
+522110,Commercial banking,3,18,675,2-digit sector,
+54,"Professional, scientific, and technical services",10,19,984,2-digit sector,
+541,"Professional, scientific, and technical services",10,19,984,2-digit sector,
+5411,Legal services,3,5,359,2-digit sector,
+54111,Offices of lawyers,3,5,359,2-digit sector,
+541110,Offices of lawyers,3,5,359,2-digit sector,
+61,Educational services,3,17,371,2-digit sector,
+611,Educational services,3,17,371,2-digit sector,
+62,Health care and social assistance,23,450,15712,2-digit sector,Yes
+621,Ambulatory health care services,13,118,5582,2-digit sector,
+6211,Offices of physicians,3,14,248,2-digit sector,
+62111,Offices of physicians,3,14,248,2-digit sector,
+621111,Offices of physicians (except mental health specialists),3,14,248,2-digit sector,
+6214,Outpatient care centers,5,87,4666,2-digit sector,
+62149,Other outpatient care centers,5,87,4666,2-digit sector,
+621498,All other outpatient care centers,5,87,4666,2-digit sector,
+624,Social assistance,8,109,2659,2-digit sector,
+6244,Child day care services,6,42,1250,2-digit sector,
+62441,Child day care services,6,42,1250,2-digit sector,
+624410,Child day care services,6,42,1250,2-digit sector,
+72,Accommodation and food services,4,17,282,2-digit sector,
+722,Food services and drinking places,3,10,153,2-digit sector,
+7225,Restaurants and other eating places,3,10,153,2-digit sector,
+72251,Restaurants and other eating places,3,10,153,2-digit sector,
+81,Other services (except public administration),19,48,1699,2-digit sector,
+811,Repair and maintenance,6,24,1201,2-digit sector,
+8111,Automotive repair and maintenance,5,19,913,2-digit sector,
+81111,Automotive mechanical and electrical repair and maintenance,3,16,899,2-digit sector,
+811111,General automotive repair,3,16,899,2-digit sector,
+813,"Religious, grantmaking, civic, professional, and similar organizations",13,24,498,2-digit sector,
+8131,Religious organizations,12,23,447,2-digit sector,
+81311,Religious organizations,12,23,447,2-digit sector,
+813110,Religious organizations,12,23,447,2-digit sector,
+621,Ambulatory health care services,13,118,5582,3-digit detail,Yes
+6211,Offices of physicians,3,14,248,4-digit detail,Yes
+6212,Offices of dentists,0 or suppressed,0 or suppressed,—,4-digit detail,MISSING/SUPPRESSED
+6213,Offices of other health practitioners,0 or suppressed,0 or suppressed,—,4-digit detail,MISSING/SUPPRESSED
+6214,Outpatient care centers,5,87,4666,4-digit detail,Yes
+6215,Medical and diagnostic laboratories,0 or suppressed,0 or suppressed,—,4-digit detail,MISSING/SUPPRESSED
+6216,Home health care services,0 or suppressed,0 or suppressed,—,4-digit detail,MISSING/SUPPRESSED
+6219,Other ambulatory health care services,0 or suppressed,0 or suppressed,—,4-digit detail,MISSING/SUPPRESSED
+622,Hospitals,0 or suppressed,0 or suppressed,—,3-digit detail,MISSING/SUPPRESSED
+623,Nursing and residential care facilities,0 or suppressed,0 or suppressed,—,3-digit detail,MISSING/SUPPRESSED
+624,Social assistance,8,109,2659,3-digit detail,Yes
+6241,Individual and family services,0 or suppressed,0 or suppressed,—,4-digit detail,MISSING/SUPPRESSED
+6242,Community food and housing services,0 or suppressed,0 or suppressed,—,4-digit detail,MISSING/SUPPRESSED
+6243,Vocational rehabilitation services,0 or suppressed,0 or suppressed,—,4-digit detail,MISSING/SUPPRESSED
+6244,Child day care services,6,42,1250,4-digit detail,Yes
+446,Health and personal care stores (pharmacies),0 or suppressed,0 or suppressed,—,3-digit detail,MISSING/SUPPRESSED
+4461,Health and personal care stores,0 or suppressed,0 or suppressed,—,4-digit detail,MISSING/SUPPRESSED
+44611,Pharmacies and drug stores,0 or suppressed,0 or suppressed,—,5-digit detail,MISSING/SUPPRESSED
+485,Transit and ground passenger transportation,0 or suppressed,0 or suppressed,—,3-digit detail,MISSING/SUPPRESSED
+4854,School and employee bus transportation,0 or suppressed,0 or suppressed,—,4-digit detail,MISSING/SUPPRESSED
+4859,Other transit/ground passenger transport,0 or suppressed,0 or suppressed,—,4-digit detail,MISSING/SUPPRESSED
+11,"Agriculture, forestry, fishing, hunting",0,0,0,MISSING SECTOR,
+22,Utilities,0,0,0,MISSING SECTOR,
+31-33,Manufacturing,0,0,0,MISSING SECTOR,
+42,Wholesale trade,0,0,0,MISSING SECTOR,
+51,Information,0,0,0,MISSING SECTOR,
+53,Real estate & rental/leasing,0,0,0,MISSING SECTOR,
+55,Management of companies,0,0,0,MISSING SECTOR,
+56,"Admin, support, waste mgmt services",0,0,0,MISSING SECTOR,
+71,"Arts, entertainment & recreation",0,0,0,MISSING SECTOR,
+99,Unclassified establishments,0,0,0,MISSING SECTOR,

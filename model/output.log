@@ -1,0 +1,76 @@
+[18:54:42] Loading usa...
+[18:54:49]   765,288 rows
+[18:54:49] Loading state...
+[18:54:55]   765,288 rows
+[18:54:55] Loading urban_rural...
+[18:55:06]   765,288 rows
+[18:55:51] Combined: 2,295,864 rows in 68.6s
+[18:55:52] Cleaning data...
+[18:56:45] Clean rows: 1,434,672 (62% of total)
+[18:56:45]   By benchmark: {'usa': 478224, 'state': 478224, 'urban_rural': 478224}
+[18:56:47] Features scaled.
+[18:56:48] Split: 1,147,737 train / 286,935 test
+[18:56:48] 
+[18:56:48] ======================================================================
+[18:56:48] TRAINING XGBoost
+[18:56:48] ======================================================================
+[18:56:48] 
+  ── IGS (Inclusive Growth Score) ──
+[18:56:48]     Training on 1,147,737 rows...
+[18:57:53]     R²=0.9883  MAE=0.75  (64.0s)
+[18:57:53]     Retraining on full dataset (1,434,672 rows)...
+[18:58:50]     Done (57.5s)
+[18:58:50] 
+  ── PLACE (Place) ──
+[18:58:50]     Training on 1,147,737 rows...
+[19:00:06]     R²=0.9936  MAE=0.63  (74.2s)
+[19:00:06]     Retraining on full dataset (1,434,672 rows)...
+[19:02:20]     Done (133.9s)
+[19:02:21] 
+  ── ECONOMY (Economy) ──
+[19:02:21]     Training on 1,147,737 rows...
+[19:04:01]     R²=0.9923  MAE=0.67  (100.1s)
+[19:04:01]     Retraining on full dataset (1,434,672 rows)...
+[19:05:42]     Done (100.9s)
+[19:05:43] 
+  ── COMMUNITY (Community) ──
+[19:05:43]     Training on 1,147,737 rows...
+[19:07:09]     R²=0.9943  MAE=0.67  (86.2s)
+[19:07:09]     Retraining on full dataset (1,434,672 rows)...
+[19:07:46]     Done (36.9s)
+[19:07:46] 
+[19:07:46] ======================================================================
+[19:07:46] FEATURE IMPORTANCE — IGS Score
+[19:07:46] ======================================================================
+[19:07:46]             Labor Market Engagement Index Score: 0.2743 ██████████████████████████████
+[19:07:46]                           Internet Access Score: 0.0985 ██████████
+[19:07:46]                      Female Above Poverty Score: 0.0935 ██████████
+[19:07:46]                      Commercial Diversity Score: 0.0841 █████████
+[19:07:46]             Residential Real Estate Value Score: 0.0644 ███████
+[19:07:46]                 Health Insurance Coverage Score: 0.0484 █████
+[19:07:46]                       Spending per Capita Score: 0.0398 ████
+[19:07:46]                      Small Business Loans Score: 0.0385 ████
+[19:07:46]                             Net Occupancy Score: 0.0351 ███
+[19:07:46]                           Personal Income Score: 0.0339 ███
+[19:07:46]                            New Businesses Score: 0.0311 ███
+[19:07:46]                Early Education Enrollment Score: 0.0295 ███
+[19:07:46]                        Affordable Housing Score: 0.0291 ███
+[19:07:46]                        Acres of Park Land Score: 0.0238 ██
+[19:07:46]           Minority/Women Owned Businesses Score: 0.0220 ██
+[19:07:46]                              Spend Growth Score: 0.0207 ██
+[19:07:46]                       Travel Time to Work Score: 0.0173 █
+[19:07:46]                          Gini Coefficient Score: 0.0157 █
+[19:07:46]                                     bench_state: 0.0001 
+[19:07:46]                                       bench_usa: 0.0000 
+[19:07:46]                               bench_urban_rural: 0.0000 
+[19:07:46] 
+[19:07:46] ======================================================================
+[19:07:46] VALIDATION — St. Helena Parish (USA benchmark)
+[19:07:46] ======================================================================
+[19:07:48]   2024: actual=36  predicted=38.2  diff=+2.2
+[19:07:48]   2025: actual=36  predicted=36.2  diff=+0.2
+[19:07:48] 
+[19:07:48] Saving models...
+[19:07:48] 
+Done! Total time: 786s (13.1min)
+[19:07:48] Saved: igs_models.pkl, scaler.pkl, features.pkl

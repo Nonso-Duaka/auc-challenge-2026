@@ -1,0 +1,16 @@
+# Large data files (200MB+ each)
+model/data/igs_usa.csv
+model/data/igs_state.csv
+model/data/igs_urban_rural.csv
+model/data/all_tracts_acs.csv
+
+# Model binaries
+model/data/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
